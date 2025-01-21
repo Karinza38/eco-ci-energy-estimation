@@ -1,4 +1,4 @@
- # Eco-CI
+  # Eco-CI
 
 Eco-CI is a project aimed at estimating energy consumption in continuous integration (CI) environments. It provides functionality to calculate the energy consumption of CI jobs based on the power consumption characteristics of the underlying hardware.
 
